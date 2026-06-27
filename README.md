@@ -1,6 +1,6 @@
-# ⚽ Football Sentiment Analysis & Intelligent Match Query System
+# ⚽ Football Sentiment Analysis & Intelligent Match Review System
 
-A comprehensive **Natural Language Processing (NLP)** project that performs sentiment analysis on football-related text using **Traditional Machine Learning, Deep Learning, and Transformer-based models**. The project also includes an intelligent football query system capable of retrieving match-related information from a football discussion corpus through an interactive **Streamlit dashboard**.
+A comprehensive **Natural Language Processing (NLP)** project that performs sentiment analysis on football-related text using **Traditional Machine Learning, Deep Learning, and Transformer-based models**. The project also includes an intelligent football analysis system capable of retrieving match-related information from a football discussion corpus through an interactive **Streamlit dashboard**.
 
 ---
 
@@ -18,7 +18,6 @@ The project combines:
 - Transformer Models
 - Rule-Based NLP
 - Interactive Data Visualization
-- Intelligent Query Processing
 
 into one complete application.
 
@@ -40,22 +39,6 @@ into one complete application.
 
 ---
 
-## 🔹 Football Query Engine
-
-Supports football-related queries including:
-
-- Team vs Team
-- Match Result
-- Goal Scorers
-- Yellow Cards
-- Red Cards
-- Match Statistics
-- Competitions
-- Match Discussions
-- Team Information
-
----
-
 ## 🔹 Interactive Dashboard
 
 Built using **Streamlit**
@@ -66,7 +49,6 @@ Features include:
 - Light/Dark Theme
 - Model Comparison
 - Batch Processing
-- Query System
 - Match Statistics
 - Sentiment Visualization
 - Performance Metrics
