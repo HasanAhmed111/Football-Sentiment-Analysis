@@ -139,7 +139,7 @@ DistilBERT provides contextual word embeddings and captures semantic relationshi
 
 | Model | Accuracy |
 |--------|-----------|
-| DistilBERT | *(Update with final accuracy after training)* |
+| DistilBERT | *78%* |
 
 ---
 
