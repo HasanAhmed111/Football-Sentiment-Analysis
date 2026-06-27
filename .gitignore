@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+models/
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (optional)
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Transformer
+distilbert_model/
+
+# Logs
+logs/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
