@@ -290,28 +290,6 @@ streamlit run app.py
 
 # 💬 Example Queries
 
-Football Query System
-
-```
-Manchester United vs Liverpool
-
-Who won Argentina vs France?
-
-Liverpool vs Manchester City
-
-Did Messi score?
-
-Show goals in Argentina vs France
-
-Show yellow cards in Brazil vs Croatia
-
-What competition was this match?
-
-Show match statistics
-```
-
-Sentiment Analysis
-
 ```
 What an unbelievable goal by Messi!
 
@@ -325,8 +303,6 @@ Amazing performance from Haaland!!
 
 The goalkeeper was absolutely terrible.
 ```
-
----
 
 # 📊 Visualizations
 
@@ -358,11 +334,11 @@ Potential future enhancements include:
 
 # 👨‍💻 Author
 
-**Hasan**
+**Hasan Ahmed Shaikh**
 
 BS Data Science
 
-Sir Syed University of Engineering & Technology
+Sindh Madressatul Islam University
 
 Karachi, Pakistan
 
